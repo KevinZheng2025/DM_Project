@@ -1,0 +1,5216 @@
+{
+    "absorb": {
+        "move_id": 0,
+        "name": "Absorb",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "accelerock": {
+        "move_id": 1,
+        "name": "Accelerock",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "acmove_id": {
+        "move_id": 2,
+        "name": "Acmove_id",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "acmove_idarmor": {
+        "move_id": 3,
+        "name": "Acmove_id Armor",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "acmove_idspray": {
+        "move_id": 4,
+        "name": "Acmove_id Spray",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "acrobatics": {
+        "move_id": 5,
+        "name": "Acrobatics",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "acupressure": {
+        "move_id": 6,
+        "name": "Acupressure",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "aerialace": {
+        "move_id": 7,
+        "name": "Aerial Ace",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "aeroblast": {
+        "move_id": 8,
+        "name": "Aeroblast",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "afteryou": {
+        "move_id": 9,
+        "name": "After You",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "agility": {
+        "move_id": 10,
+        "name": "Agility",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "aircutter": {
+        "move_id": 11,
+        "name": "Air Cutter",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "airslash": {
+        "move_id": 12,
+        "name": "Air Slash",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "allyswitch": {
+        "move_id": 13,
+        "name": "Ally Switch",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "amnesia": {
+        "move_id": 14,
+        "name": "Amnesia",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "anchorshot": {
+        "move_id": 15,
+        "name": "Anchor Shot",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "ancientpower": {
+        "move_id": 16,
+        "name": "Ancient Power",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "appleacmove_id": {
+        "move_id": 17,
+        "name": "Apple Acmove_id",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "aquacutter": {
+        "move_id": 18,
+        "name": "Aqua Cutter",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "aquajet": {
+        "move_id": 19,
+        "name": "Aqua Jet",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "aquaring": {
+        "move_id": 20,
+        "name": "Aqua Ring",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "aquastep": {
+        "move_id": 21,
+        "name": "Aqua Step",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "aquatail": {
+        "move_id": 22,
+        "name": "Aqua Tail",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "armorcannon": {
+        "move_id": 23,
+        "name": "Armor Cannon",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "armthrust": {
+        "move_id": 24,
+        "name": "Arm Thrust",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "aromatherapy": {
+        "move_id": 25,
+        "name": "Aromatherapy",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "aromaticmist": {
+        "move_id": 26,
+        "name": "Aromatic Mist",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "assist": {
+        "move_id": 27,
+        "name": "Assist",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "assurance": {
+        "move_id": 28,
+        "name": "Assurance",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "astonish": {
+        "move_id": 29,
+        "name": "Astonish",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "astralbarrage": {
+        "move_id": 30,
+        "name": "Astral Barrage",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "attackorder": {
+        "move_id": 31,
+        "name": "Attack Order",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "attract": {
+        "move_id": 32,
+        "name": "Attract",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "aurasphere": {
+        "move_id": 33,
+        "name": "Aura Sphere",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "aurawheel": {
+        "move_id": 34,
+        "name": "Aura Wheel",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "aurorabeam": {
+        "move_id": 35,
+        "name": "Aurora Beam",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "auroraveil": {
+        "move_id": 36,
+        "name": "Aurora Veil",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "autotomize": {
+        "move_id": 37,
+        "name": "Autotomize",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "avalanche": {
+        "move_id": 38,
+        "name": "Avalanche",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "axekick": {
+        "move_id": 39,
+        "name": "Axe Kick",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "babydolleyes": {
+        "move_id": 40,
+        "name": "Baby-Doll Eyes",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "baddybad": {
+        "move_id": 41,
+        "name": "Baddy Bad",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "banefulbunker": {
+        "move_id": 42,
+        "name": "Baneful Bunker",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "barbbarrage": {
+        "move_id": 43,
+        "name": "Barb Barrage",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "barrage": {
+        "move_id": 44,
+        "name": "Barrage",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "barrier": {
+        "move_id": 45,
+        "name": "Barrier",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "batonpass": {
+        "move_id": 46,
+        "name": "Baton Pass",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "beakblast": {
+        "move_id": 47,
+        "name": "Beak Blast",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "beatup": {
+        "move_id": 48,
+        "name": "Beat Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "behemothbash": {
+        "move_id": 49,
+        "name": "Behemoth Bash",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "behemothblade": {
+        "move_id": 50,
+        "name": "Behemoth Blade",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "belch": {
+        "move_id": 51,
+        "name": "Belch",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "bellydrum": {
+        "move_id": 52,
+        "name": "Belly Drum",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "bestow": {
+        "move_id": 53,
+        "name": "Bestow",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "bmove_ide": {
+        "move_id": 54,
+        "name": "Bmove_ide",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "bind": {
+        "move_id": 55,
+        "name": "Bind",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "bite": {
+        "move_id": 56,
+        "name": "Bite",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "bitterblade": {
+        "move_id": 57,
+        "name": "Bitter Blade",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "bittermalice": {
+        "move_id": 58,
+        "name": "Bitter Malice",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "blastburn": {
+        "move_id": 59,
+        "name": "Blast Burn",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "blazekick": {
+        "move_id": 60,
+        "name": "Blaze Kick",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "blazingtorque": {
+        "move_id": 61,
+        "name": "Blazing Torque",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "bleakwindstorm": {
+        "move_id": 62,
+        "name": "Bleakwind Storm",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "blizzard": {
+        "move_id": 63,
+        "name": "Blizzard",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "block": {
+        "move_id": 64,
+        "name": "Block",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "bloodmoon": {
+        "move_id": 65,
+        "name": "Blood Moon",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "blueflare": {
+        "move_id": 66,
+        "name": "Blue Flare",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "bodypress": {
+        "move_id": 67,
+        "name": "Body Press",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "bodyslam": {
+        "move_id": 68,
+        "name": "Body Slam",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "boltbeak": {
+        "move_id": 69,
+        "name": "Bolt Beak",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "boltstrike": {
+        "move_id": 70,
+        "name": "Bolt Strike",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "boneclub": {
+        "move_id": 71,
+        "name": "Bone Club",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "bonemerang": {
+        "move_id": 72,
+        "name": "Bonemerang",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "bonerush": {
+        "move_id": 73,
+        "name": "Bone Rush",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "boomburst": {
+        "move_id": 74,
+        "name": "Boomburst",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "bounce": {
+        "move_id": 75,
+        "name": "Bounce",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "bouncybubble": {
+        "move_id": 76,
+        "name": "Bouncy Bubble",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "branchpoke": {
+        "move_id": 77,
+        "name": "Branch Poke",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "bravebird": {
+        "move_id": 78,
+        "name": "Brave Bird",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "breakingswipe": {
+        "move_id": 79,
+        "name": "Breaking Swipe",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "brickbreak": {
+        "move_id": 80,
+        "name": "Brick Break",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "brine": {
+        "move_id": 81,
+        "name": "Brine",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "brutalswing": {
+        "move_id": 82,
+        "name": "Brutal Swing",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "bubble": {
+        "move_id": 83,
+        "name": "Bubble",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "bubblebeam": {
+        "move_id": 84,
+        "name": "Bubble Beam",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "bugbite": {
+        "move_id": 85,
+        "name": "Bug Bite",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "bugbuzz": {
+        "move_id": 86,
+        "name": "Bug Buzz",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "bulkup": {
+        "move_id": 87,
+        "name": "Bulk Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "bulldoze": {
+        "move_id": 88,
+        "name": "Bulldoze",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "bulletpunch": {
+        "move_id": 89,
+        "name": "Bullet Punch",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "bulletseed": {
+        "move_id": 90,
+        "name": "Bullet Seed",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "burningjealousy": {
+        "move_id": 91,
+        "name": "Burning Jealousy",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "burnup": {
+        "move_id": 92,
+        "name": "Burn Up",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "buzzybuzz": {
+        "move_id": 93,
+        "name": "Buzzy Buzz",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "calmmind": {
+        "move_id": 94,
+        "name": "Calm Mind",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "camouflage": {
+        "move_id": 95,
+        "name": "Camouflage",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "captivate": {
+        "move_id": 96,
+        "name": "Captivate",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "ceaselessedge": {
+        "move_id": 97,
+        "name": "Ceaseless Edge",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "celebrate": {
+        "move_id": 98,
+        "name": "Celebrate",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "charge": {
+        "move_id": 99,
+        "name": "Charge",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "chargebeam": {
+        "move_id": 100,
+        "name": "Charge Beam",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "charm": {
+        "move_id": 101,
+        "name": "Charm",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "chatter": {
+        "move_id": 102,
+        "name": "Chatter",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "chillingwater": {
+        "move_id": 103,
+        "name": "Chilling Water",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "chillyreception": {
+        "move_id": 104,
+        "name": "Chilly Reception",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "chipaway": {
+        "move_id": 105,
+        "name": "Chip Away",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "chloroblast": {
+        "move_id": 106,
+        "name": "Chloroblast",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "circlethrow": {
+        "move_id": 107,
+        "name": "Circle Throw",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "clamp": {
+        "move_id": 108,
+        "name": "Clamp",
+        "basePower": 35,
+        "classification": "aggressive"
+    },
+    "clangingscales": {
+        "move_id": 109,
+        "name": "Clanging Scales",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "clangoroussoul": {
+        "move_id": 110,
+        "name": "Clangorous Soul",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "clearsmog": {
+        "move_id": 111,
+        "name": "Clear Smog",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "closecombat": {
+        "move_id": 112,
+        "name": "Close Combat",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "coaching": {
+        "move_id": 113,
+        "name": "Coaching",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "coil": {
+        "move_id": 114,
+        "name": "Coil",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "collisioncourse": {
+        "move_id": 115,
+        "name": "Collision Course",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "combattorque": {
+        "move_id": 116,
+        "name": "Combat Torque",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "cometpunch": {
+        "move_id": 117,
+        "name": "Comet Punch",
+        "basePower": 18,
+        "classification": "passive"
+    },
+    "comeuppance": {
+        "move_id": 118,
+        "name": "Comeuppance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "confmove_ide": {
+        "move_id": 119,
+        "name": "Confmove_ide",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "confuseray": {
+        "move_id": 120,
+        "name": "Confuse Ray",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "confusion": {
+        "move_id": 121,
+        "name": "Confusion",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "constrict": {
+        "move_id": 122,
+        "name": "Constrict",
+        "basePower": 10,
+        "classification": "passive"
+    },
+    "conversion": {
+        "move_id": 123,
+        "name": "Conversion",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "conversion2": {
+        "move_id": 124,
+        "name": "Conversion 2",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "copycat": {
+        "move_id": 125,
+        "name": "Copycat",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "coreenforcer": {
+        "move_id": 126,
+        "name": "Core Enforcer",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "corrosivegas": {
+        "move_id": 127,
+        "name": "Corrosive Gas",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "cosmicpower": {
+        "move_id": 128,
+        "name": "Cosmic Power",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "cottonguard": {
+        "move_id": 129,
+        "name": "Cotton Guard",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "cottonspore": {
+        "move_id": 130,
+        "name": "Cotton Spore",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "counter": {
+        "move_id": 131,
+        "name": "Counter",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "courtchange": {
+        "move_id": 132,
+        "name": "Court Change",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "covet": {
+        "move_id": 133,
+        "name": "Covet",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "crabhammer": {
+        "move_id": 134,
+        "name": "Crabhammer",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "craftyshield": {
+        "move_id": 135,
+        "name": "Crafty Shield",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "crosschop": {
+        "move_id": 136,
+        "name": "Cross Chop",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "crosspoison": {
+        "move_id": 137,
+        "name": "Cross Poison",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "crunch": {
+        "move_id": 138,
+        "name": "Crunch",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "crushclaw": {
+        "move_id": 139,
+        "name": "Crush Claw",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "crushgrip": {
+        "move_id": 140,
+        "name": "Crush Grip",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "curse": {
+        "move_id": 141,
+        "name": "Curse",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "cut": {
+        "move_id": 142,
+        "name": "Cut",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "darkestlariat": {
+        "move_id": 143,
+        "name": "Darkest Lariat",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "darkpulse": {
+        "move_id": 144,
+        "name": "Dark Pulse",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "darkvomove_id": {
+        "move_id": 145,
+        "name": "Dark Vomove_id",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "dazzlinggleam": {
+        "move_id": 146,
+        "name": "Dazzling Gleam",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "decorate": {
+        "move_id": 147,
+        "name": "Decorate",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "defendorder": {
+        "move_id": 148,
+        "name": "Defend Order",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "defensecurl": {
+        "move_id": 149,
+        "name": "Defense Curl",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "defog": {
+        "move_id": 150,
+        "name": "Defog",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "destinybond": {
+        "move_id": 151,
+        "name": "Destiny Bond",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "detect": {
+        "move_id": 152,
+        "name": "Detect",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "diamondstorm": {
+        "move_id": 153,
+        "name": "Diamond Storm",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "dig": {
+        "move_id": 154,
+        "name": "Dig",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "direclaw": {
+        "move_id": 155,
+        "name": "Dire Claw",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "disable": {
+        "move_id": 156,
+        "name": "Disable",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "disarmingvoice": {
+        "move_id": 157,
+        "name": "Disarming Voice",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "discharge": {
+        "move_id": 158,
+        "name": "Discharge",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "dive": {
+        "move_id": 159,
+        "name": "Dive",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "dizzypunch": {
+        "move_id": 160,
+        "name": "Dizzy Punch",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "doodle": {
+        "move_id": 161,
+        "name": "Doodle",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "doomdesire": {
+        "move_id": 162,
+        "name": "Doom Desire",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "doubleedge": {
+        "move_id": 163,
+        "name": "Double-Edge",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "doublehit": {
+        "move_id": 164,
+        "name": "Double Hit",
+        "basePower": 35,
+        "classification": "aggressive"
+    },
+    "doubleironbash": {
+        "move_id": 165,
+        "name": "Double Iron Bash",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "doublekick": {
+        "move_id": 166,
+        "name": "Double Kick",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "doubleshock": {
+        "move_id": 167,
+        "name": "Double Shock",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "doubleslap": {
+        "move_id": 168,
+        "name": "Double Slap",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "doubleteam": {
+        "move_id": 169,
+        "name": "Double Team",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "dracometeor": {
+        "move_id": 170,
+        "name": "Draco Meteor",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "dragonascent": {
+        "move_id": 171,
+        "name": "Dragon Ascent",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "dragonbreath": {
+        "move_id": 172,
+        "name": "Dragon Breath",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "dragonclaw": {
+        "move_id": 173,
+        "name": "Dragon Claw",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "dragondance": {
+        "move_id": 174,
+        "name": "Dragon Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "dragondarts": {
+        "move_id": 175,
+        "name": "Dragon Darts",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "dragonenergy": {
+        "move_id": 176,
+        "name": "Dragon Energy",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "dragonhammer": {
+        "move_id": 177,
+        "name": "Dragon Hammer",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "dragonpulse": {
+        "move_id": 178,
+        "name": "Dragon Pulse",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "dragonrage": {
+        "move_id": 179,
+        "name": "Dragon Rage",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "dragonrush": {
+        "move_id": 180,
+        "name": "Dragon Rush",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "dragontail": {
+        "move_id": 181,
+        "name": "Dragon Tail",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "drainingkiss": {
+        "move_id": 182,
+        "name": "Draining Kiss",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "drainpunch": {
+        "move_id": 183,
+        "name": "Drain Punch",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "dreameater": {
+        "move_id": 184,
+        "name": "Dream Eater",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "drillpeck": {
+        "move_id": 185,
+        "name": "Drill Peck",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "drillrun": {
+        "move_id": 186,
+        "name": "Drill Run",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "drumbeating": {
+        "move_id": 187,
+        "name": "Drum Beating",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "dualchop": {
+        "move_id": 188,
+        "name": "Dual Chop",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "dualwingbeat": {
+        "move_id": 189,
+        "name": "Dual Wingbeat",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "dynamaxcannon": {
+        "move_id": 190,
+        "name": "Dynamax Cannon",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "dynamicpunch": {
+        "move_id": 191,
+        "name": "Dynamic Punch",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "earthpower": {
+        "move_id": 192,
+        "name": "Earth Power",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "earthquake": {
+        "move_id": 193,
+        "name": "Earthquake",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "echoedvoice": {
+        "move_id": 194,
+        "name": "Echoed Voice",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "eerieimpulse": {
+        "move_id": 195,
+        "name": "Eerie Impulse",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "eeriespell": {
+        "move_id": 196,
+        "name": "Eerie Spell",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "eggbomb": {
+        "move_id": 197,
+        "name": "Egg Bomb",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "electricterrain": {
+        "move_id": 198,
+        "name": "Electric Terrain",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "electrify": {
+        "move_id": 199,
+        "name": "Electrify",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "electroball": {
+        "move_id": 200,
+        "name": "Electro Ball",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "electrodrift": {
+        "move_id": 201,
+        "name": "Electro Drift",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "electroweb": {
+        "move_id": 202,
+        "name": "Electroweb",
+        "basePower": 55,
+        "classification": "aggressive"
+    },
+    "embargo": {
+        "move_id": 203,
+        "name": "Embargo",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "ember": {
+        "move_id": 204,
+        "name": "Ember",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "encore": {
+        "move_id": 205,
+        "name": "Encore",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "endeavor": {
+        "move_id": 206,
+        "name": "Endeavor",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "endure": {
+        "move_id": 207,
+        "name": "Endure",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "energyball": {
+        "move_id": 208,
+        "name": "Energy Ball",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "entrainment": {
+        "move_id": 209,
+        "name": "Entrainment",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "eruption": {
+        "move_id": 210,
+        "name": "Eruption",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "esperwing": {
+        "move_id": 211,
+        "name": "Esper Wing",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "eternabeam": {
+        "move_id": 212,
+        "name": "Eternabeam",
+        "basePower": 160,
+        "classification": "aggressive"
+    },
+    "expandingforce": {
+        "move_id": 213,
+        "name": "Expanding Force",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "explosion": {
+        "move_id": 214,
+        "name": "Explosion",
+        "basePower": 250,
+        "classification": "aggressive"
+    },
+    "extrasensory": {
+        "move_id": 215,
+        "name": "Extrasensory",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "extremespeed": {
+        "move_id": 216,
+        "name": "Extreme Speed",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "facade": {
+        "move_id": 217,
+        "name": "Facade",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "fairylock": {
+        "move_id": 218,
+        "name": "Fairy Lock",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "fairywind": {
+        "move_id": 219,
+        "name": "Fairy Wind",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "fakeout": {
+        "move_id": 220,
+        "name": "Fake Out",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "faketears": {
+        "move_id": 221,
+        "name": "Fake Tears",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "falsesurrender": {
+        "move_id": 222,
+        "name": "False Surrender",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "falseswipe": {
+        "move_id": 223,
+        "name": "False Swipe",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "featherdance": {
+        "move_id": 224,
+        "name": "Feather Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "feint": {
+        "move_id": 225,
+        "name": "Feint",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "feintattack": {
+        "move_id": 226,
+        "name": "Feint Attack",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "fellstinger": {
+        "move_id": 227,
+        "name": "Fell Stinger",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "fierydance": {
+        "move_id": 228,
+        "name": "Fiery Dance",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "fierywrath": {
+        "move_id": 229,
+        "name": "Fiery Wrath",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "filletaway": {
+        "move_id": 230,
+        "name": "Fillet Away",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "finalgambit": {
+        "move_id": 231,
+        "name": "Final Gambit",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "fireblast": {
+        "move_id": 232,
+        "name": "Fire Blast",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "firefang": {
+        "move_id": 233,
+        "name": "Fire Fang",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "firelash": {
+        "move_id": 234,
+        "name": "Fire Lash",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "firepledge": {
+        "move_id": 235,
+        "name": "Fire Pledge",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "firepunch": {
+        "move_id": 236,
+        "name": "Fire Punch",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "firespin": {
+        "move_id": 237,
+        "name": "Fire Spin",
+        "basePower": 35,
+        "classification": "aggressive"
+    },
+    "firstimpression": {
+        "move_id": 238,
+        "name": "First Impression",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "fishiousrend": {
+        "move_id": 239,
+        "name": "Fishious Rend",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "fissure": {
+        "move_id": 240,
+        "name": "Fissure",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "flail": {
+        "move_id": 241,
+        "name": "Flail",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "flameburst": {
+        "move_id": 242,
+        "name": "Flame Burst",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "flamecharge": {
+        "move_id": 243,
+        "name": "Flame Charge",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "flamethrower": {
+        "move_id": 244,
+        "name": "Flamethrower",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "flamewheel": {
+        "move_id": 245,
+        "name": "Flame Wheel",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "flareblitz": {
+        "move_id": 246,
+        "name": "Flare Blitz",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "flash": {
+        "move_id": 247,
+        "name": "Flash",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "flashcannon": {
+        "move_id": 248,
+        "name": "Flash Cannon",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "flatter": {
+        "move_id": 249,
+        "name": "Flatter",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "fleurcannon": {
+        "move_id": 250,
+        "name": "Fleur Cannon",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "fling": {
+        "move_id": 251,
+        "name": "Fling",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "flipturn": {
+        "move_id": 252,
+        "name": "Flip Turn",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "floatyfall": {
+        "move_id": 253,
+        "name": "Floaty Fall",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "floralhealing": {
+        "move_id": 254,
+        "name": "Floral Healing",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "flowershield": {
+        "move_id": 255,
+        "name": "Flower Shield",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "flowertrick": {
+        "move_id": 256,
+        "name": "Flower Trick",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "fly": {
+        "move_id": 257,
+        "name": "Fly",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "flyingpress": {
+        "move_id": 258,
+        "name": "Flying Press",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "focusblast": {
+        "move_id": 259,
+        "name": "Focus Blast",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "focusenergy": {
+        "move_id": 260,
+        "name": "Focus Energy",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "focuspunch": {
+        "move_id": 261,
+        "name": "Focus Punch",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "followme": {
+        "move_id": 262,
+        "name": "Follow Me",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "forcepalm": {
+        "move_id": 263,
+        "name": "Force Palm",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "foresight": {
+        "move_id": 264,
+        "name": "Foresight",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "forestscurse": {
+        "move_id": 265,
+        "name": "Forest's Curse",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "foulplay": {
+        "move_id": 266,
+        "name": "Foul Play",
+        "basePower": 95,
+        "classification": "aggressive"
+    },
+    "freezedry": {
+        "move_id": 267,
+        "name": "Freeze-Dry",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "freezeshock": {
+        "move_id": 268,
+        "name": "Freeze Shock",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "freezingglare": {
+        "move_id": 269,
+        "name": "Freezing Glare",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "freezyfrost": {
+        "move_id": 270,
+        "name": "Freezy Frost",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "frenzyplant": {
+        "move_id": 271,
+        "name": "Frenzy Plant",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "frostbreath": {
+        "move_id": 272,
+        "name": "Frost Breath",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "frustration": {
+        "move_id": 273,
+        "name": "Frustration",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "furyattack": {
+        "move_id": 274,
+        "name": "Fury Attack",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "furycutter": {
+        "move_id": 275,
+        "name": "Fury Cutter",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "furyswipes": {
+        "move_id": 276,
+        "name": "Fury Swipes",
+        "basePower": 18,
+        "classification": "passive"
+    },
+    "fusionbolt": {
+        "move_id": 277,
+        "name": "Fusion Bolt",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "fusionflare": {
+        "move_id": 278,
+        "name": "Fusion Flare",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "futuresight": {
+        "move_id": 279,
+        "name": "Future Sight",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "gastroacmove_id": {
+        "move_id": 280,
+        "name": "Gastro Acmove_id",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "geargrind": {
+        "move_id": 281,
+        "name": "Gear Grind",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "gearup": {
+        "move_id": 282,
+        "name": "Gear Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "geomancy": {
+        "move_id": 283,
+        "name": "Geomancy",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "gigadrain": {
+        "move_id": 284,
+        "name": "Giga Drain",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "gigaimpact": {
+        "move_id": 285,
+        "name": "Giga Impact",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "gigatonhammer": {
+        "move_id": 286,
+        "name": "Gigaton Hammer",
+        "basePower": 160,
+        "classification": "aggressive"
+    },
+    "glaciallance": {
+        "move_id": 287,
+        "name": "Glacial Lance",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "glaciate": {
+        "move_id": 288,
+        "name": "Glaciate",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "glaiverush": {
+        "move_id": 289,
+        "name": "Glaive Rush",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "glare": {
+        "move_id": 290,
+        "name": "Glare",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "glitzyglow": {
+        "move_id": 291,
+        "name": "Glitzy Glow",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "grassknot": {
+        "move_id": 292,
+        "name": "Grass Knot",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "grasspledge": {
+        "move_id": 293,
+        "name": "Grass Pledge",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "grasswhistle": {
+        "move_id": 294,
+        "name": "Grass Whistle",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "grassyglmove_ide": {
+        "move_id": 295,
+        "name": "Grassy Glmove_ide",
+        "basePower": 55,
+        "classification": "aggressive"
+    },
+    "grassyterrain": {
+        "move_id": 296,
+        "name": "Grassy Terrain",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "gravapple": {
+        "move_id": 297,
+        "name": "Grav Apple",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "gravity": {
+        "move_id": 298,
+        "name": "Gravity",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "growl": {
+        "move_id": 299,
+        "name": "Growl",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "growth": {
+        "move_id": 300,
+        "name": "Growth",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "grudge": {
+        "move_id": 301,
+        "name": "Grudge",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "guardsplit": {
+        "move_id": 302,
+        "name": "Guard Split",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "guardswap": {
+        "move_id": 303,
+        "name": "Guard Swap",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "guillotine": {
+        "move_id": 304,
+        "name": "Guillotine",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "gunkshot": {
+        "move_id": 305,
+        "name": "Gunk Shot",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "gust": {
+        "move_id": 306,
+        "name": "Gust",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "gyroball": {
+        "move_id": 307,
+        "name": "Gyro Ball",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "hail": {
+        "move_id": 308,
+        "name": "Hail",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "hammerarm": {
+        "move_id": 309,
+        "name": "Hammer Arm",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "happyhour": {
+        "move_id": 310,
+        "name": "Happy Hour",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "harden": {
+        "move_id": 311,
+        "name": "Harden",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "haze": {
+        "move_id": 312,
+        "name": "Haze",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "headbutt": {
+        "move_id": 313,
+        "name": "Headbutt",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "headcharge": {
+        "move_id": 314,
+        "name": "Head Charge",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "headlongrush": {
+        "move_id": 315,
+        "name": "Headlong Rush",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "headsmash": {
+        "move_id": 316,
+        "name": "Head Smash",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "healbell": {
+        "move_id": 317,
+        "name": "Heal Bell",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "healblock": {
+        "move_id": 318,
+        "name": "Heal Block",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "healingwish": {
+        "move_id": 319,
+        "name": "Healing Wish",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "healorder": {
+        "move_id": 320,
+        "name": "Heal Order",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "healpulse": {
+        "move_id": 321,
+        "name": "Heal Pulse",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "heartstamp": {
+        "move_id": 322,
+        "name": "Heart Stamp",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "heartswap": {
+        "move_id": 323,
+        "name": "Heart Swap",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "heatcrash": {
+        "move_id": 324,
+        "name": "Heat Crash",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "heatwave": {
+        "move_id": 325,
+        "name": "Heat Wave",
+        "basePower": 95,
+        "classification": "aggressive"
+    },
+    "heavyslam": {
+        "move_id": 326,
+        "name": "Heavy Slam",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "helpinghand": {
+        "move_id": 327,
+        "name": "Helping Hand",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "hex": {
+        "move_id": 328,
+        "name": "Hex",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpower60": {
+        "move_id": 329,
+        "name": "Hmove_idden Power",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerbug60": {
+        "move_id": 330,
+        "name": "Hmove_idden Power Bug",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerbug70": {
+        "move_id": 331,
+        "name": "Hmove_idden Power Bug",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerdark60": {
+        "move_id": 332,
+        "name": "Hmove_idden Power Dark",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerdark70": {
+        "move_id": 333,
+        "name": "Hmove_idden Power Dark",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerdragon60": {
+        "move_id": 334,
+        "name": "Hmove_idden Power Dragon",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerdragon70": {
+        "move_id": 335,
+        "name": "Hmove_idden Power Dragon",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerelectric60": {
+        "move_id": 336,
+        "name": "Hmove_idden Power Electric",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerelectric70": {
+        "move_id": 337,
+        "name": "Hmove_idden Power Electric",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerfighting60": {
+        "move_id": 338,
+        "name": "Hmove_idden Power Fighting",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerfighting70": {
+        "move_id": 339,
+        "name": "Hmove_idden Power Fighting",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerfire60": {
+        "move_id": 340,
+        "name": "Hmove_idden Power Fire",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerfire70": {
+        "move_id": 341,
+        "name": "Hmove_idden Power Fire",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerflying60": {
+        "move_id": 342,
+        "name": "Hmove_idden Power Flying",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerflying70": {
+        "move_id": 343,
+        "name": "Hmove_idden Power Flying",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerghost60": {
+        "move_id": 344,
+        "name": "Hmove_idden Power Ghost",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerghost70": {
+        "move_id": 345,
+        "name": "Hmove_idden Power Ghost",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowergrass60": {
+        "move_id": 346,
+        "name": "Hmove_idden Power Grass",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowergrass70": {
+        "move_id": 347,
+        "name": "Hmove_idden Power Grass",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerground60": {
+        "move_id": 348,
+        "name": "Hmove_idden Power Ground",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerground70": {
+        "move_id": 349,
+        "name": "Hmove_idden Power Ground",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerice60": {
+        "move_id": 350,
+        "name": "Hmove_idden Power Ice",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerice70": {
+        "move_id": 351,
+        "name": "Hmove_idden Power Ice",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerpoison60": {
+        "move_id": 352,
+        "name": "Hmove_idden Power Poison",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerpoison70": {
+        "move_id": 353,
+        "name": "Hmove_idden Power Poison",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerpsychic60": {
+        "move_id": 354,
+        "name": "Hmove_idden Power Psychic",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerpsychic70": {
+        "move_id": 355,
+        "name": "Hmove_idden Power Psychic",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerrock60": {
+        "move_id": 356,
+        "name": "Hmove_idden Power Rock",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerrock70": {
+        "move_id": 357,
+        "name": "Hmove_idden Power Rock",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowersteel60": {
+        "move_id": 358,
+        "name": "Hmove_idden Power Steel",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowersteel70": {
+        "move_id": 359,
+        "name": "Hmove_idden Power Steel",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerwater60": {
+        "move_id": 360,
+        "name": "Hmove_idden Power Water",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "hmove_iddenpowerwater70": {
+        "move_id": 361,
+        "name": "Hmove_idden Power Water",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "highhorsepower": {
+        "move_id": 362,
+        "name": "High Horsepower",
+        "basePower": 95,
+        "classification": "aggressive"
+    },
+    "highjumpkick": {
+        "move_id": 363,
+        "name": "High Jump Kick",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "holdback": {
+        "move_id": 364,
+        "name": "Hold Back",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "holdhands": {
+        "move_id": 365,
+        "name": "Hold Hands",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "honeclaws": {
+        "move_id": 366,
+        "name": "Hone Claws",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "hornattack": {
+        "move_id": 367,
+        "name": "Horn Attack",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "horndrill": {
+        "move_id": 368,
+        "name": "Horn Drill",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "hornleech": {
+        "move_id": 369,
+        "name": "Horn Leech",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "howl": {
+        "move_id": 370,
+        "name": "Howl",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "hurricane": {
+        "move_id": 371,
+        "name": "Hurricane",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "hydrocannon": {
+        "move_id": 372,
+        "name": "Hydro Cannon",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "hydropump": {
+        "move_id": 373,
+        "name": "Hydro Pump",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "hydrosteam": {
+        "move_id": 374,
+        "name": "Hydro Steam",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "hyperbeam": {
+        "move_id": 375,
+        "name": "Hyper Beam",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "hyperdrill": {
+        "move_id": 376,
+        "name": "Hyper Drill",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "hyperfang": {
+        "move_id": 377,
+        "name": "Hyper Fang",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "hyperspacefury": {
+        "move_id": 378,
+        "name": "Hyperspace Fury",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "hyperspacehole": {
+        "move_id": 379,
+        "name": "Hyperspace Hole",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "hypervoice": {
+        "move_id": 380,
+        "name": "Hyper Voice",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "hypnosis": {
+        "move_id": 381,
+        "name": "Hypnosis",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "iceball": {
+        "move_id": 382,
+        "name": "Ice Ball",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "icebeam": {
+        "move_id": 383,
+        "name": "Ice Beam",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "iceburn": {
+        "move_id": 384,
+        "name": "Ice Burn",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "icefang": {
+        "move_id": 385,
+        "name": "Ice Fang",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "icehammer": {
+        "move_id": 386,
+        "name": "Ice Hammer",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "icepunch": {
+        "move_id": 387,
+        "name": "Ice Punch",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "iceshard": {
+        "move_id": 388,
+        "name": "Ice Shard",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "icespinner": {
+        "move_id": 389,
+        "name": "Ice Spinner",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "iciclecrash": {
+        "move_id": 390,
+        "name": "Icicle Crash",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "iciclespear": {
+        "move_id": 391,
+        "name": "Icicle Spear",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "icywind": {
+        "move_id": 392,
+        "name": "Icy Wind",
+        "basePower": 55,
+        "classification": "aggressive"
+    },
+    "imprison": {
+        "move_id": 393,
+        "name": "Imprison",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "incinerate": {
+        "move_id": 394,
+        "name": "Incinerate",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "infernalparade": {
+        "move_id": 395,
+        "name": "Infernal Parade",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "inferno": {
+        "move_id": 396,
+        "name": "Inferno",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "infestation": {
+        "move_id": 397,
+        "name": "Infestation",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "ingrain": {
+        "move_id": 398,
+        "name": "Ingrain",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "instruct": {
+        "move_id": 399,
+        "name": "Instruct",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "iondeluge": {
+        "move_id": 400,
+        "name": "Ion Deluge",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "irondefense": {
+        "move_id": 401,
+        "name": "Iron Defense",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "ironhead": {
+        "move_id": 402,
+        "name": "Iron Head",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "irontail": {
+        "move_id": 403,
+        "name": "Iron Tail",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "ivycudgel": {
+        "move_id": 404,
+        "name": "Ivy Cudgel",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "jawlock": {
+        "move_id": 405,
+        "name": "Jaw Lock",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "jetpunch": {
+        "move_id": 406,
+        "name": "Jet Punch",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "judgment": {
+        "move_id": 407,
+        "name": "Judgment",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "jumpkick": {
+        "move_id": 408,
+        "name": "Jump Kick",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "junglehealing": {
+        "move_id": 409,
+        "name": "Jungle Healing",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "karatechop": {
+        "move_id": 410,
+        "name": "Karate Chop",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "kinesis": {
+        "move_id": 411,
+        "name": "Kinesis",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "kingsshield": {
+        "move_id": 412,
+        "name": "King's Shield",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "knockoff": {
+        "move_id": 413,
+        "name": "Knock Off",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "kowtowcleave": {
+        "move_id": 414,
+        "name": "Kowtow Cleave",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "landswrath": {
+        "move_id": 415,
+        "name": "Land's Wrath",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "laserfocus": {
+        "move_id": 416,
+        "name": "Laser Focus",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lashout": {
+        "move_id": 417,
+        "name": "Lash Out",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "lastresort": {
+        "move_id": 418,
+        "name": "Last Resort",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "lastrespects": {
+        "move_id": 419,
+        "name": "Last Respects",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "lavaplume": {
+        "move_id": 420,
+        "name": "Lava Plume",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "leafage": {
+        "move_id": 421,
+        "name": "Leafage",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "leafblade": {
+        "move_id": 422,
+        "name": "Leaf Blade",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "leafstorm": {
+        "move_id": 423,
+        "name": "Leaf Storm",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "leaftornado": {
+        "move_id": 424,
+        "name": "Leaf Tornado",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "leechlife": {
+        "move_id": 425,
+        "name": "Leech Life",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "leechseed": {
+        "move_id": 426,
+        "name": "Leech Seed",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "leer": {
+        "move_id": 427,
+        "name": "Leer",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lick": {
+        "move_id": 428,
+        "name": "Lick",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "lifedew": {
+        "move_id": 429,
+        "name": "Life Dew",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lightofruin": {
+        "move_id": 430,
+        "name": "Light of Ruin",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "lightscreen": {
+        "move_id": 431,
+        "name": "Light Screen",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "liqumove_idation": {
+        "move_id": 432,
+        "name": "Liqumove_idation",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "lockon": {
+        "move_id": 433,
+        "name": "Lock-On",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lovelykiss": {
+        "move_id": 434,
+        "name": "Lovely Kiss",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lowkick": {
+        "move_id": 435,
+        "name": "Low Kick",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lowsweep": {
+        "move_id": 436,
+        "name": "Low Sweep",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "luckychant": {
+        "move_id": 437,
+        "name": "Lucky Chant",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "luminacrash": {
+        "move_id": 438,
+        "name": "Lumina Crash",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "lunarblessing": {
+        "move_id": 439,
+        "name": "Lunar Blessing",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lunardance": {
+        "move_id": 440,
+        "name": "Lunar Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "lunge": {
+        "move_id": 441,
+        "name": "Lunge",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "lusterpurge": {
+        "move_id": 442,
+        "name": "Luster Purge",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "machpunch": {
+        "move_id": 443,
+        "name": "Mach Punch",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "magicalleaf": {
+        "move_id": 444,
+        "name": "Magical Leaf",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "magicaltorque": {
+        "move_id": 445,
+        "name": "Magical Torque",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "magiccoat": {
+        "move_id": 446,
+        "name": "Magic Coat",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "magicpowder": {
+        "move_id": 447,
+        "name": "Magic Powder",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "magicroom": {
+        "move_id": 448,
+        "name": "Magic Room",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "magmastorm": {
+        "move_id": 449,
+        "name": "Magma Storm",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "magnetbomb": {
+        "move_id": 450,
+        "name": "Magnet Bomb",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "magneticflux": {
+        "move_id": 451,
+        "name": "Magnetic Flux",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "magnetrise": {
+        "move_id": 452,
+        "name": "Magnet Rise",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "magnitude": {
+        "move_id": 453,
+        "name": "Magnitude",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "makeitrain": {
+        "move_id": 454,
+        "name": "Make It Rain",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "matblock": {
+        "move_id": 455,
+        "name": "Mat Block",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "matchagotcha": {
+        "move_id": 456,
+        "name": "Matcha Gotcha",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "meanlook": {
+        "move_id": 457,
+        "name": "Mean Look",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "meditate": {
+        "move_id": 458,
+        "name": "Meditate",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mefirst": {
+        "move_id": 459,
+        "name": "Me First",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "megadrain": {
+        "move_id": 460,
+        "name": "Mega Drain",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "megahorn": {
+        "move_id": 461,
+        "name": "Megahorn",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "megakick": {
+        "move_id": 462,
+        "name": "Mega Kick",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "megapunch": {
+        "move_id": 463,
+        "name": "Mega Punch",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "memento": {
+        "move_id": 464,
+        "name": "Memento",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "metalburst": {
+        "move_id": 465,
+        "name": "Metal Burst",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "metalclaw": {
+        "move_id": 466,
+        "name": "Metal Claw",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "metalsound": {
+        "move_id": 467,
+        "name": "Metal Sound",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "meteorassault": {
+        "move_id": 468,
+        "name": "Meteor Assault",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "meteorbeam": {
+        "move_id": 469,
+        "name": "Meteor Beam",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "meteormash": {
+        "move_id": 470,
+        "name": "Meteor Mash",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "metronome": {
+        "move_id": 471,
+        "name": "Metronome",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "milkdrink": {
+        "move_id": 472,
+        "name": "Milk Drink",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mimic": {
+        "move_id": 473,
+        "name": "Mimic",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mindblown": {
+        "move_id": 474,
+        "name": "Mind Blown",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "mindreader": {
+        "move_id": 475,
+        "name": "Mind Reader",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "minimize": {
+        "move_id": 476,
+        "name": "Minimize",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "miracleeye": {
+        "move_id": 477,
+        "name": "Miracle Eye",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mirrorcoat": {
+        "move_id": 478,
+        "name": "Mirror Coat",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mirrormove": {
+        "move_id": 479,
+        "name": "Mirror Move",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mirrorshot": {
+        "move_id": 480,
+        "name": "Mirror Shot",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "mist": {
+        "move_id": 481,
+        "name": "Mist",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mistball": {
+        "move_id": 482,
+        "name": "Mist Ball",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "mistyexplosion": {
+        "move_id": 483,
+        "name": "Misty Explosion",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "mistyterrain": {
+        "move_id": 484,
+        "name": "Misty Terrain",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "moonblast": {
+        "move_id": 485,
+        "name": "Moonblast",
+        "basePower": 95,
+        "classification": "aggressive"
+    },
+    "moongeistbeam": {
+        "move_id": 486,
+        "name": "Moongeist Beam",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "moonlight": {
+        "move_id": 487,
+        "name": "Moonlight",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "morningsun": {
+        "move_id": 488,
+        "name": "Morning Sun",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "mortalspin": {
+        "move_id": 489,
+        "name": "Mortal Spin",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "mountaingale": {
+        "move_id": 490,
+        "name": "Mountain Gale",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "mudbomb": {
+        "move_id": 491,
+        "name": "Mud Bomb",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "muddywater": {
+        "move_id": 492,
+        "name": "Muddy Water",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "mudshot": {
+        "move_id": 493,
+        "name": "Mud Shot",
+        "basePower": 55,
+        "classification": "aggressive"
+    },
+    "mudslap": {
+        "move_id": 494,
+        "name": "Mud-Slap",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "mudsport": {
+        "move_id": 495,
+        "name": "Mud Sport",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "multiattack": {
+        "move_id": 496,
+        "name": "Multi-Attack",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "mysticalfire": {
+        "move_id": 497,
+        "name": "Mystical Fire",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "mysticalpower": {
+        "move_id": 498,
+        "name": "Mystical Power",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "nastyplot": {
+        "move_id": 499,
+        "name": "Nasty Plot",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "naturalgift": {
+        "move_id": 500,
+        "name": "Natural Gift",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "naturepower": {
+        "move_id": 501,
+        "name": "Nature Power",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "naturesmadness": {
+        "move_id": 502,
+        "name": "Nature's Madness",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "needlearm": {
+        "move_id": 503,
+        "name": "Needle Arm",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "nightdaze": {
+        "move_id": 504,
+        "name": "Night Daze",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "nightmare": {
+        "move_id": 505,
+        "name": "Nightmare",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "nightshade": {
+        "move_id": 506,
+        "name": "Night Shade",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "nightslash": {
+        "move_id": 507,
+        "name": "Night Slash",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "nobleroar": {
+        "move_id": 508,
+        "name": "Noble Roar",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "noretreat": {
+        "move_id": 509,
+        "name": "No Retreat",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "nothing": {
+        "move_id": 510,
+        "name": "Splash",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "noxioustorque": {
+        "move_id": 511,
+        "name": "Noxious Torque",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "nuzzle": {
+        "move_id": 512,
+        "name": "Nuzzle",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "oblivionwing": {
+        "move_id": 513,
+        "name": "Oblivion Wing",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "obstruct": {
+        "move_id": 514,
+        "name": "Obstruct",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "octazooka": {
+        "move_id": 515,
+        "name": "Octazooka",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "octolock": {
+        "move_id": 516,
+        "name": "Octolock",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "odorsleuth": {
+        "move_id": 517,
+        "name": "Odor Sleuth",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "ominouswind": {
+        "move_id": 518,
+        "name": "Ominous Wind",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "orderup": {
+        "move_id": 519,
+        "name": "Order Up",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "originpulse": {
+        "move_id": 520,
+        "name": "Origin Pulse",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "outrage": {
+        "move_id": 521,
+        "name": "Outrage",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "overdrive": {
+        "move_id": 522,
+        "name": "Overdrive",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "overheat": {
+        "move_id": 523,
+        "name": "Overheat",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "painsplit": {
+        "move_id": 524,
+        "name": "Pain Split",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "paleowave": {
+        "move_id": 525,
+        "name": "Paleo Wave",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "paraboliccharge": {
+        "move_id": 526,
+        "name": "Parabolic Charge",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "partingshot": {
+        "move_id": 527,
+        "name": "Parting Shot",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "payback": {
+        "move_id": 528,
+        "name": "Payback",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "payday": {
+        "move_id": 529,
+        "name": "Pay Day",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "peck": {
+        "move_id": 530,
+        "name": "Peck",
+        "basePower": 35,
+        "classification": "aggressive"
+    },
+    "perishsong": {
+        "move_id": 531,
+        "name": "Perish Song",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "petalblizzard": {
+        "move_id": 532,
+        "name": "Petal Blizzard",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "petaldance": {
+        "move_id": 533,
+        "name": "Petal Dance",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "phantomforce": {
+        "move_id": 534,
+        "name": "Phantom Force",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "photongeyser": {
+        "move_id": 535,
+        "name": "Photon Geyser",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "pikapapow": {
+        "move_id": 536,
+        "name": "Pika Papow",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "pinmissile": {
+        "move_id": 537,
+        "name": "Pin Missile",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "plasmafists": {
+        "move_id": 538,
+        "name": "Plasma Fists",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "playnice": {
+        "move_id": 539,
+        "name": "Play Nice",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "playrough": {
+        "move_id": 540,
+        "name": "Play Rough",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "pluck": {
+        "move_id": 541,
+        "name": "Pluck",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "poisonfang": {
+        "move_id": 542,
+        "name": "Poison Fang",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "poisongas": {
+        "move_id": 543,
+        "name": "Poison Gas",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "poisonjab": {
+        "move_id": 544,
+        "name": "Poison Jab",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "poisonpowder": {
+        "move_id": 545,
+        "name": "Poison Powder",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "poisonsting": {
+        "move_id": 546,
+        "name": "Poison Sting",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "poisontail": {
+        "move_id": 547,
+        "name": "Poison Tail",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "pollenpuff": {
+        "move_id": 548,
+        "name": "Pollen Puff",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "poltergeist": {
+        "move_id": 549,
+        "name": "Poltergeist",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "populationbomb": {
+        "move_id": 550,
+        "name": "Population Bomb",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "pounce": {
+        "move_id": 551,
+        "name": "Pounce",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "pound": {
+        "move_id": 552,
+        "name": "Pound",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "powder": {
+        "move_id": 553,
+        "name": "Powder",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "powdersnow": {
+        "move_id": 554,
+        "name": "Powder Snow",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "powergem": {
+        "move_id": 555,
+        "name": "Power Gem",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "powershift": {
+        "move_id": 556,
+        "name": "Power Shift",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "powersplit": {
+        "move_id": 557,
+        "name": "Power Split",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "powerswap": {
+        "move_id": 558,
+        "name": "Power Swap",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "powertrick": {
+        "move_id": 559,
+        "name": "Power Trick",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "powertrip": {
+        "move_id": 560,
+        "name": "Power Trip",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "poweruppunch": {
+        "move_id": 561,
+        "name": "Power-Up Punch",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "powerwhip": {
+        "move_id": 562,
+        "name": "Power Whip",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "precipiceblades": {
+        "move_id": 563,
+        "name": "Precipice Blades",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "present": {
+        "move_id": 564,
+        "name": "Present",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "prismaticlaser": {
+        "move_id": 565,
+        "name": "Prismatic Laser",
+        "basePower": 160,
+        "classification": "aggressive"
+    },
+    "protect": {
+        "move_id": 566,
+        "name": "Protect",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "psybeam": {
+        "move_id": 567,
+        "name": "Psybeam",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "psyblade": {
+        "move_id": 568,
+        "name": "Psyblade",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "psychic": {
+        "move_id": 569,
+        "name": "Psychic",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "psychicfangs": {
+        "move_id": 570,
+        "name": "Psychic Fangs",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "psychicterrain": {
+        "move_id": 571,
+        "name": "Psychic Terrain",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "psychoboost": {
+        "move_id": 572,
+        "name": "Psycho Boost",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "psychocut": {
+        "move_id": 573,
+        "name": "Psycho Cut",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "psychoshift": {
+        "move_id": 574,
+        "name": "Psycho Shift",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "psychup": {
+        "move_id": 575,
+        "name": "Psych Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "psyshieldbash": {
+        "move_id": 576,
+        "name": "Psyshield Bash",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "psyshock": {
+        "move_id": 577,
+        "name": "Psyshock",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "psystrike": {
+        "move_id": 578,
+        "name": "Psystrike",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "psywave": {
+        "move_id": 579,
+        "name": "Psywave",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "punishment": {
+        "move_id": 580,
+        "name": "Punishment",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "purify": {
+        "move_id": 581,
+        "name": "Purify",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "pursuit": {
+        "move_id": 582,
+        "name": "Pursuit",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "pyroball": {
+        "move_id": 583,
+        "name": "Pyro Ball",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "quash": {
+        "move_id": 584,
+        "name": "Quash",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "quickattack": {
+        "move_id": 585,
+        "name": "Quick Attack",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "quickguard": {
+        "move_id": 586,
+        "name": "Quick Guard",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "quiverdance": {
+        "move_id": 587,
+        "name": "Quiver Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "rage": {
+        "move_id": 588,
+        "name": "Rage",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "ragefist": {
+        "move_id": 589,
+        "name": "Rage Fist",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "ragepowder": {
+        "move_id": 590,
+        "name": "Rage Powder",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "ragingbull": {
+        "move_id": 591,
+        "name": "Raging Bull",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "ragingfury": {
+        "move_id": 592,
+        "name": "Raging Fury",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "raindance": {
+        "move_id": 593,
+        "name": "Rain Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "rapmove_idspin": {
+        "move_id": 594,
+        "name": "Rapmove_id Spin",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "razorleaf": {
+        "move_id": 595,
+        "name": "Razor Leaf",
+        "basePower": 55,
+        "classification": "aggressive"
+    },
+    "razorshell": {
+        "move_id": 596,
+        "name": "Razor Shell",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "razorwind": {
+        "move_id": 597,
+        "name": "Razor Wind",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "recharge": {
+        "move_id": 598,
+        "name": "Recharge",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "recover": {
+        "move_id": 599,
+        "name": "Recover",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "recycle": {
+        "move_id": 600,
+        "name": "Recycle",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "reflect": {
+        "move_id": 601,
+        "name": "Reflect",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "reflecttype": {
+        "move_id": 602,
+        "name": "Reflect Type",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "refresh": {
+        "move_id": 603,
+        "name": "Refresh",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "relicsong": {
+        "move_id": 604,
+        "name": "Relic Song",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "rest": {
+        "move_id": 605,
+        "name": "Rest",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "retaliate": {
+        "move_id": 606,
+        "name": "Retaliate",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "return": {
+        "move_id": 607,
+        "name": "Return",
+        "basePower": 102,
+        "classification": "aggressive"
+    },
+    "return102": {
+        "move_id": 608,
+        "name": "Return",
+        "basePower": 102,
+        "classification": "aggressive"
+    },
+    "revelationdance": {
+        "move_id": 609,
+        "name": "Revelation Dance",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "revenge": {
+        "move_id": 610,
+        "name": "Revenge",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "reversal": {
+        "move_id": 611,
+        "name": "Reversal",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "revivalblessing": {
+        "move_id": 612,
+        "name": "Revival Blessing",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "risingvoltage": {
+        "move_id": 613,
+        "name": "Rising Voltage",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "roar": {
+        "move_id": 614,
+        "name": "Roar",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "roaroftime": {
+        "move_id": 615,
+        "name": "Roar of Time",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "rockblast": {
+        "move_id": 616,
+        "name": "Rock Blast",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "rockclimb": {
+        "move_id": 617,
+        "name": "Rock Climb",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "rockpolish": {
+        "move_id": 618,
+        "name": "Rock Polish",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "rockslmove_ide": {
+        "move_id": 619,
+        "name": "Rock Slmove_ide",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "rocksmash": {
+        "move_id": 620,
+        "name": "Rock Smash",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "rockthrow": {
+        "move_id": 621,
+        "name": "Rock Throw",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "rocktomb": {
+        "move_id": 622,
+        "name": "Rock Tomb",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "rockwrecker": {
+        "move_id": 623,
+        "name": "Rock Wrecker",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "roleplay": {
+        "move_id": 624,
+        "name": "Role Play",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "rollingkick": {
+        "move_id": 625,
+        "name": "Rolling Kick",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "rollout": {
+        "move_id": 626,
+        "name": "Rollout",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "roost": {
+        "move_id": 627,
+        "name": "Roost",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "rototiller": {
+        "move_id": 628,
+        "name": "Rototiller",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "round": {
+        "move_id": 629,
+        "name": "Round",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "ruination": {
+        "move_id": 630,
+        "name": "Ruination",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sacredfire": {
+        "move_id": 631,
+        "name": "Sacred Fire",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "sacredsword": {
+        "move_id": 632,
+        "name": "Sacred Sword",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "safeguard": {
+        "move_id": 633,
+        "name": "Safeguard",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "saltcure": {
+        "move_id": 634,
+        "name": "Salt Cure",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "sandattack": {
+        "move_id": 635,
+        "name": "Sand Attack",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sandsearstorm": {
+        "move_id": 636,
+        "name": "Sandsear Storm",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "sandstorm": {
+        "move_id": 637,
+        "name": "Sandstorm",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sandtomb": {
+        "move_id": 638,
+        "name": "Sand Tomb",
+        "basePower": 35,
+        "classification": "aggressive"
+    },
+    "sappyseed": {
+        "move_id": 639,
+        "name": "Sappy Seed",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "scald": {
+        "move_id": 640,
+        "name": "Scald",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "scaleshot": {
+        "move_id": 641,
+        "name": "Scale Shot",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "scaryface": {
+        "move_id": 642,
+        "name": "Scary Face",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "scorchingsands": {
+        "move_id": 643,
+        "name": "Scorching Sands",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "scratch": {
+        "move_id": 644,
+        "name": "Scratch",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "screech": {
+        "move_id": 645,
+        "name": "Screech",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "searingshot": {
+        "move_id": 646,
+        "name": "Searing Shot",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "secretpower": {
+        "move_id": 647,
+        "name": "Secret Power",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "secretsword": {
+        "move_id": 648,
+        "name": "Secret Sword",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "seedbomb": {
+        "move_id": 649,
+        "name": "Seed Bomb",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "seedflare": {
+        "move_id": 650,
+        "name": "Seed Flare",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "seismictoss": {
+        "move_id": 651,
+        "name": "Seismic Toss",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "selfdestruct": {
+        "move_id": 652,
+        "name": "Self-Destruct",
+        "basePower": 200,
+        "classification": "aggressive"
+    },
+    "shadowball": {
+        "move_id": 653,
+        "name": "Shadow Ball",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "shadowbone": {
+        "move_id": 654,
+        "name": "Shadow Bone",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "shadowclaw": {
+        "move_id": 655,
+        "name": "Shadow Claw",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "shadowforce": {
+        "move_id": 656,
+        "name": "Shadow Force",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "shadowpunch": {
+        "move_id": 657,
+        "name": "Shadow Punch",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "shadowsneak": {
+        "move_id": 658,
+        "name": "Shadow Sneak",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "shadowstrike": {
+        "move_id": 659,
+        "name": "Shadow Strike",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "sharpen": {
+        "move_id": 660,
+        "name": "Sharpen",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "shedtail": {
+        "move_id": 661,
+        "name": "Shed Tail",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sheercold": {
+        "move_id": 662,
+        "name": "Sheer Cold",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "shellsmove_idearm": {
+        "move_id": 663,
+        "name": "Shell Smove_ide Arm",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "shellsmash": {
+        "move_id": 664,
+        "name": "Shell Smash",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "shelltrap": {
+        "move_id": 665,
+        "name": "Shell Trap",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "shelter": {
+        "move_id": 666,
+        "name": "Shelter",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "shiftgear": {
+        "move_id": 667,
+        "name": "Shift Gear",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "shockwave": {
+        "move_id": 668,
+        "name": "Shock Wave",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "shoreup": {
+        "move_id": 669,
+        "name": "Shore Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "signalbeam": {
+        "move_id": 670,
+        "name": "Signal Beam",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "silktrap": {
+        "move_id": 671,
+        "name": "Silk Trap",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "silverwind": {
+        "move_id": 672,
+        "name": "Silver Wind",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "simplebeam": {
+        "move_id": 673,
+        "name": "Simple Beam",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sing": {
+        "move_id": 674,
+        "name": "Sing",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sizzlyslmove_ide": {
+        "move_id": 675,
+        "name": "Sizzly Slmove_ide",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "sketch": {
+        "move_id": 676,
+        "name": "Sketch",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "skillswap": {
+        "move_id": 677,
+        "name": "Skill Swap",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "skittersmack": {
+        "move_id": 678,
+        "name": "Skitter Smack",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "skullbash": {
+        "move_id": 679,
+        "name": "Skull Bash",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "skyattack": {
+        "move_id": 680,
+        "name": "Sky Attack",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "skydrop": {
+        "move_id": 681,
+        "name": "Sky Drop",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "skyuppercut": {
+        "move_id": 682,
+        "name": "Sky Uppercut",
+        "basePower": 85,
+        "classification": "aggressive"
+    },
+    "slackoff": {
+        "move_id": 683,
+        "name": "Slack Off",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "slam": {
+        "move_id": 684,
+        "name": "Slam",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "slash": {
+        "move_id": 685,
+        "name": "Slash",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "sleeppowder": {
+        "move_id": 686,
+        "name": "Sleep Powder",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sleeptalk": {
+        "move_id": 687,
+        "name": "Sleep Talk",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sludge": {
+        "move_id": 688,
+        "name": "Sludge",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "sludgebomb": {
+        "move_id": 689,
+        "name": "Sludge Bomb",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "sludgewave": {
+        "move_id": 690,
+        "name": "Sludge Wave",
+        "basePower": 95,
+        "classification": "aggressive"
+    },
+    "smackdown": {
+        "move_id": 691,
+        "name": "Smack Down",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "smartstrike": {
+        "move_id": 692,
+        "name": "Smart Strike",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "smellingsalts": {
+        "move_id": 693,
+        "name": "Smelling Salts",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "smog": {
+        "move_id": 694,
+        "name": "Smog",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "smokescreen": {
+        "move_id": 695,
+        "name": "Smokescreen",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "snaptrap": {
+        "move_id": 696,
+        "name": "Snap Trap",
+        "basePower": 35,
+        "classification": "aggressive"
+    },
+    "snarl": {
+        "move_id": 697,
+        "name": "Snarl",
+        "basePower": 55,
+        "classification": "aggressive"
+    },
+    "snatch": {
+        "move_id": 698,
+        "name": "Snatch",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "snipeshot": {
+        "move_id": 699,
+        "name": "Snipe Shot",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "snore": {
+        "move_id": 700,
+        "name": "Snore",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "snowscape": {
+        "move_id": 701,
+        "name": "Snowscape",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "soak": {
+        "move_id": 702,
+        "name": "Soak",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "softboiled": {
+        "move_id": 703,
+        "name": "Soft-Boiled",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "solarbeam": {
+        "move_id": 704,
+        "name": "Solar Beam",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "solarblade": {
+        "move_id": 705,
+        "name": "Solar Blade",
+        "basePower": 125,
+        "classification": "aggressive"
+    },
+    "sonicboom": {
+        "move_id": 706,
+        "name": "Sonic Boom",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spacialrend": {
+        "move_id": 707,
+        "name": "Spacial Rend",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "spark": {
+        "move_id": 708,
+        "name": "Spark",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "sparklingaria": {
+        "move_id": 709,
+        "name": "Sparkling Aria",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "sparklyswirl": {
+        "move_id": 710,
+        "name": "Sparkly Swirl",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "spectralthief": {
+        "move_id": 711,
+        "name": "Spectral Thief",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "speedswap": {
+        "move_id": 712,
+        "name": "Speed Swap",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spicyextract": {
+        "move_id": 713,
+        "name": "Spicy Extract",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spmove_iderweb": {
+        "move_id": 714,
+        "name": "Spmove_ider Web",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spikecannon": {
+        "move_id": 715,
+        "name": "Spike Cannon",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "spikes": {
+        "move_id": 716,
+        "name": "Spikes",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spikyshield": {
+        "move_id": 717,
+        "name": "Spiky Shield",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spinout": {
+        "move_id": 718,
+        "name": "Spin Out",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "spiritbreak": {
+        "move_id": 719,
+        "name": "Spirit Break",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "spiritshackle": {
+        "move_id": 720,
+        "name": "Spirit Shackle",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "spite": {
+        "move_id": 721,
+        "name": "Spite",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spitup": {
+        "move_id": 722,
+        "name": "Spit Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "splash": {
+        "move_id": 723,
+        "name": "Splash",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "splishysplash": {
+        "move_id": 724,
+        "name": "Splishy Splash",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "spore": {
+        "move_id": 725,
+        "name": "Spore",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "spotlight": {
+        "move_id": 726,
+        "name": "Spotlight",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "springtmove_idestorm": {
+        "move_id": 727,
+        "name": "Springtmove_ide Storm",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "stealthrock": {
+        "move_id": 728,
+        "name": "Stealth Rock",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "steameruption": {
+        "move_id": 729,
+        "name": "Steam Eruption",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "steamroller": {
+        "move_id": 730,
+        "name": "Steamroller",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "steelbeam": {
+        "move_id": 731,
+        "name": "Steel Beam",
+        "basePower": 140,
+        "classification": "aggressive"
+    },
+    "steelroller": {
+        "move_id": 732,
+        "name": "Steel Roller",
+        "basePower": 130,
+        "classification": "aggressive"
+    },
+    "steelwing": {
+        "move_id": 733,
+        "name": "Steel Wing",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "stickyweb": {
+        "move_id": 734,
+        "name": "Sticky Web",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "stockpile": {
+        "move_id": 735,
+        "name": "Stockpile",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "stomp": {
+        "move_id": 736,
+        "name": "Stomp",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "stompingtantrum": {
+        "move_id": 737,
+        "name": "Stomping Tantrum",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "stoneaxe": {
+        "move_id": 738,
+        "name": "Stone Axe",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "stoneedge": {
+        "move_id": 739,
+        "name": "Stone Edge",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "storedpower": {
+        "move_id": 740,
+        "name": "Stored Power",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "stormthrow": {
+        "move_id": 741,
+        "name": "Storm Throw",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "strangesteam": {
+        "move_id": 742,
+        "name": "Strange Steam",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "strength": {
+        "move_id": 743,
+        "name": "Strength",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "strengthsap": {
+        "move_id": 744,
+        "name": "Strength Sap",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "stringshot": {
+        "move_id": 745,
+        "name": "String Shot",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "struggle": {
+        "move_id": 746,
+        "name": "Struggle",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "strugglebug": {
+        "move_id": 747,
+        "name": "Struggle Bug",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "stuffcheeks": {
+        "move_id": 748,
+        "name": "Stuff Cheeks",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "stunspore": {
+        "move_id": 749,
+        "name": "Stun Spore",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "submission": {
+        "move_id": 750,
+        "name": "Submission",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "substitute": {
+        "move_id": 751,
+        "name": "Substitute",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "suckerpunch": {
+        "move_id": 752,
+        "name": "Sucker Punch",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "sunnyday": {
+        "move_id": 753,
+        "name": "Sunny Day",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sunsteelstrike": {
+        "move_id": 754,
+        "name": "Sunsteel Strike",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "superfang": {
+        "move_id": 755,
+        "name": "Super Fang",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "superpower": {
+        "move_id": 756,
+        "name": "Superpower",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "supersonic": {
+        "move_id": 757,
+        "name": "Supersonic",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "surf": {
+        "move_id": 758,
+        "name": "Surf",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "surgingstrikes": {
+        "move_id": 759,
+        "name": "Surging Strikes",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "swagger": {
+        "move_id": 760,
+        "name": "Swagger",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "swallow": {
+        "move_id": 761,
+        "name": "Swallow",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sweetkiss": {
+        "move_id": 762,
+        "name": "Sweet Kiss",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "sweetscent": {
+        "move_id": 763,
+        "name": "Sweet Scent",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "swift": {
+        "move_id": 764,
+        "name": "Swift",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "switcheroo": {
+        "move_id": 765,
+        "name": "Switcheroo",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "swordsdance": {
+        "move_id": 766,
+        "name": "Swords Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "synchronoise": {
+        "move_id": 767,
+        "name": "Synchronoise",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "synthesis": {
+        "move_id": 768,
+        "name": "Synthesis",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "syrupbomb": {
+        "move_id": 769,
+        "name": "Syrup Bomb",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "tackle": {
+        "move_id": 770,
+        "name": "Tackle",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "tailglow": {
+        "move_id": 771,
+        "name": "Tail Glow",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "tailslap": {
+        "move_id": 772,
+        "name": "Tail Slap",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "tailwhip": {
+        "move_id": 773,
+        "name": "Tail Whip",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "tailwind": {
+        "move_id": 774,
+        "name": "Tailwind",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "takedown": {
+        "move_id": 775,
+        "name": "Take Down",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "takeheart": {
+        "move_id": 776,
+        "name": "Take Heart",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "tarshot": {
+        "move_id": 777,
+        "name": "Tar Shot",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "taunt": {
+        "move_id": 778,
+        "name": "Taunt",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "tearfullook": {
+        "move_id": 779,
+        "name": "Tearful Look",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "teatime": {
+        "move_id": 780,
+        "name": "Teatime",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "technoblast": {
+        "move_id": 781,
+        "name": "Techno Blast",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "teeterdance": {
+        "move_id": 782,
+        "name": "Teeter Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "telekinesis": {
+        "move_id": 783,
+        "name": "Telekinesis",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "teleport": {
+        "move_id": 784,
+        "name": "Teleport",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "terablast": {
+        "move_id": 785,
+        "name": "Tera Blast",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "terrainpulse": {
+        "move_id": 786,
+        "name": "Terrain Pulse",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "thief": {
+        "move_id": 787,
+        "name": "Thief",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "thousandarrows": {
+        "move_id": 788,
+        "name": "Thousand Arrows",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "thousandwaves": {
+        "move_id": 789,
+        "name": "Thousand Waves",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "thrash": {
+        "move_id": 790,
+        "name": "Thrash",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "throatchop": {
+        "move_id": 791,
+        "name": "Throat Chop",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "thunder": {
+        "move_id": 792,
+        "name": "Thunder",
+        "basePower": 110,
+        "classification": "aggressive"
+    },
+    "thunderbolt": {
+        "move_id": 793,
+        "name": "Thunderbolt",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "thundercage": {
+        "move_id": 794,
+        "name": "Thunder Cage",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "thunderfang": {
+        "move_id": 795,
+        "name": "Thunder Fang",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "thunderouskick": {
+        "move_id": 796,
+        "name": "Thunderous Kick",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "thunderpunch": {
+        "move_id": 797,
+        "name": "Thunder Punch",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "thundershock": {
+        "move_id": 798,
+        "name": "Thunder Shock",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "thunderwave": {
+        "move_id": 799,
+        "name": "Thunder Wave",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "tickle": {
+        "move_id": 800,
+        "name": "Tickle",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "tmove_idyup": {
+        "move_id": 801,
+        "name": "Tmove_idy Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "topsyturvy": {
+        "move_id": 802,
+        "name": "Topsy-Turvy",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "torchsong": {
+        "move_id": 803,
+        "name": "Torch Song",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "torment": {
+        "move_id": 804,
+        "name": "Torment",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "toxic": {
+        "move_id": 805,
+        "name": "Toxic",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "toxicspikes": {
+        "move_id": 806,
+        "name": "Toxic Spikes",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "toxicthread": {
+        "move_id": 807,
+        "name": "Toxic Thread",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "trailblaze": {
+        "move_id": 808,
+        "name": "Trailblaze",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "transform": {
+        "move_id": 809,
+        "name": "Transform",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "triattack": {
+        "move_id": 810,
+        "name": "Tri Attack",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "trick": {
+        "move_id": 811,
+        "name": "Trick",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "trickortreat": {
+        "move_id": 812,
+        "name": "Trick-or-Treat",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "trickroom": {
+        "move_id": 813,
+        "name": "Trick Room",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "triplearrows": {
+        "move_id": 814,
+        "name": "Triple Arrows",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "tripleaxel": {
+        "move_id": 815,
+        "name": "Triple Axel",
+        "basePower": 20,
+        "classification": "passive"
+    },
+    "tripledive": {
+        "move_id": 816,
+        "name": "Triple Dive",
+        "basePower": 30,
+        "classification": "aggressive"
+    },
+    "triplekick": {
+        "move_id": 817,
+        "name": "Triple Kick",
+        "basePower": 10,
+        "classification": "passive"
+    },
+    "tropkick": {
+        "move_id": 818,
+        "name": "Trop Kick",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "trumpcard": {
+        "move_id": 819,
+        "name": "Trump Card",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "twinbeam": {
+        "move_id": 820,
+        "name": "Twin Beam",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "twineedle": {
+        "move_id": 821,
+        "name": "Twineedle",
+        "basePower": 25,
+        "classification": "passive"
+    },
+    "twister": {
+        "move_id": 822,
+        "name": "Twister",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "uproar": {
+        "move_id": 823,
+        "name": "Uproar",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "uturn": {
+        "move_id": 824,
+        "name": "U-turn",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "vacuumwave": {
+        "move_id": 825,
+        "name": "Vacuum Wave",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "vcreate": {
+        "move_id": 826,
+        "name": "V-create",
+        "basePower": 180,
+        "classification": "aggressive"
+    },
+    "veeveevolley": {
+        "move_id": 827,
+        "name": "Veevee Volley",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "venomdrench": {
+        "move_id": 828,
+        "name": "Venom Drench",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "venoshock": {
+        "move_id": 829,
+        "name": "Venoshock",
+        "basePower": 65,
+        "classification": "aggressive"
+    },
+    "victorydance": {
+        "move_id": 830,
+        "name": "Victory Dance",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "vinewhip": {
+        "move_id": 831,
+        "name": "Vine Whip",
+        "basePower": 45,
+        "classification": "aggressive"
+    },
+    "visegrip": {
+        "move_id": 832,
+        "name": "Vise Grip",
+        "basePower": 55,
+        "classification": "aggressive"
+    },
+    "vitalthrow": {
+        "move_id": 833,
+        "name": "Vital Throw",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "voltswitch": {
+        "move_id": 834,
+        "name": "Volt Switch",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "volttackle": {
+        "move_id": 835,
+        "name": "Volt Tackle",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "wakeupslap": {
+        "move_id": 836,
+        "name": "Wake-Up Slap",
+        "basePower": 70,
+        "classification": "aggressive"
+    },
+    "waterfall": {
+        "move_id": 837,
+        "name": "Waterfall",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "watergun": {
+        "move_id": 838,
+        "name": "Water Gun",
+        "basePower": 40,
+        "classification": "aggressive"
+    },
+    "waterpledge": {
+        "move_id": 839,
+        "name": "Water Pledge",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "waterpulse": {
+        "move_id": 840,
+        "name": "Water Pulse",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "watershuriken": {
+        "move_id": 841,
+        "name": "Water Shuriken",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "watersport": {
+        "move_id": 842,
+        "name": "Water Sport",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "waterspout": {
+        "move_id": 843,
+        "name": "Water Spout",
+        "basePower": 150,
+        "classification": "aggressive"
+    },
+    "wavecrash": {
+        "move_id": 844,
+        "name": "Wave Crash",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "weatherball": {
+        "move_id": 845,
+        "name": "Weather Ball",
+        "basePower": 50,
+        "classification": "aggressive"
+    },
+    "whirlpool": {
+        "move_id": 846,
+        "name": "Whirlpool",
+        "basePower": 35,
+        "classification": "aggressive"
+    },
+    "whirlwind": {
+        "move_id": 847,
+        "name": "Whirlwind",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "wickedblow": {
+        "move_id": 848,
+        "name": "Wicked Blow",
+        "basePower": 75,
+        "classification": "aggressive"
+    },
+    "wickedtorque": {
+        "move_id": 849,
+        "name": "Wicked Torque",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "wmove_ideguard": {
+        "move_id": 850,
+        "name": "Wmove_ide Guard",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "wildboltstorm": {
+        "move_id": 851,
+        "name": "Wildbolt Storm",
+        "basePower": 100,
+        "classification": "aggressive"
+    },
+    "wildcharge": {
+        "move_id": 852,
+        "name": "Wild Charge",
+        "basePower": 90,
+        "classification": "aggressive"
+    },
+    "willowisp": {
+        "move_id": 853,
+        "name": "Will-O-Wisp",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "wingattack": {
+        "move_id": 854,
+        "name": "Wing Attack",
+        "basePower": 60,
+        "classification": "aggressive"
+    },
+    "wish": {
+        "move_id": 855,
+        "name": "Wish",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "withdraw": {
+        "move_id": 856,
+        "name": "Withdraw",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "wonderroom": {
+        "move_id": 857,
+        "name": "Wonder Room",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "woodhammer": {
+        "move_id": 858,
+        "name": "Wood Hammer",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "workup": {
+        "move_id": 859,
+        "name": "Work Up",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "worryseed": {
+        "move_id": 860,
+        "name": "Worry Seed",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "wrap": {
+        "move_id": 861,
+        "name": "Wrap",
+        "basePower": 15,
+        "classification": "passive"
+    },
+    "wringout": {
+        "move_id": 862,
+        "name": "Wring Out",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "xscissor": {
+        "move_id": 863,
+        "name": "X-Scissor",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "yawn": {
+        "move_id": 864,
+        "name": "Yawn",
+        "basePower": 0,
+        "classification": "passive"
+    },
+    "zapcannon": {
+        "move_id": 865,
+        "name": "Zap Cannon",
+        "basePower": 120,
+        "classification": "aggressive"
+    },
+    "zenheadbutt": {
+        "move_id": 866,
+        "name": "Zen Headbutt",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "zingzap": {
+        "move_id": 867,
+        "name": "Zing Zap",
+        "basePower": 80,
+        "classification": "aggressive"
+    },
+    "zippyzap": {
+        "move_id": 868,
+        "name": "Zippy Zap",
+        "basePower": 80,
+        "classification": "aggressive"
+    }
+}
