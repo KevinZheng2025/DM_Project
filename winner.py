@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Define file paths
-master_csv_path = "replays.csv"  # Replace with the actual name of your master CSV file
+master_csv_path = "replays.csv" 
 classified_folder = "train_classified"
 
 # Load the master CSV file
