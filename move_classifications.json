@@ -11,21 +11,21 @@
         "basePower": 40,
         "classification": "aggressive"
     },
-    "acmove_id": {
+    "acid": {
         "move_id": 2,
-        "name": "Acmove_id",
+        "name": "Acid",
         "basePower": 40,
         "classification": "aggressive"
     },
-    "acmove_idarmor": {
+    "acidarmor": {
         "move_id": 3,
-        "name": "Acmove_id Armor",
+        "name": "Acid Armor",
         "basePower": 0,
         "classification": "passive"
     },
-    "acmove_idspray": {
+    "acidspray": {
         "move_id": 4,
-        "name": "Acmove_id Spray",
+        "name": "Acid Spray",
         "basePower": 40,
         "classification": "aggressive"
     },
@@ -101,9 +101,9 @@
         "basePower": 60,
         "classification": "aggressive"
     },
-    "appleacmove_id": {
+    "appleacid": {
         "move_id": 17,
-        "name": "Apple Acmove_id",
+        "name": "Apple Acid",
         "basePower": 80,
         "classification": "aggressive"
     },
@@ -323,9 +323,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "bmove_ide": {
+    "bide": {
         "move_id": 54,
-        "name": "Bmove_ide",
+        "name": "Bide",
         "basePower": 0,
         "classification": "passive"
     },
@@ -713,9 +713,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "confmove_ide": {
+    "confide": {
         "move_id": 119,
-        "name": "Confmove_ide",
+        "name": "Confide",
         "basePower": 0,
         "classification": "passive"
     },
@@ -869,9 +869,9 @@
         "basePower": 80,
         "classification": "aggressive"
     },
-    "darkvomove_id": {
+    "darkvoid": {
         "move_id": 145,
-        "name": "Dark Vomove_id",
+        "name": "Dark Void",
         "basePower": 0,
         "classification": "passive"
     },
@@ -1679,9 +1679,9 @@
         "basePower": 120,
         "classification": "aggressive"
     },
-    "gastroacmove_id": {
+    "gastroacid": {
         "move_id": 280,
-        "name": "Gastro Acmove_id",
+        "name": "Gastro Acid",
         "basePower": 0,
         "classification": "passive"
     },
@@ -1769,9 +1769,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "grassyglmove_ide": {
+    "grassyglide": {
         "move_id": 295,
-        "name": "Grassy Glmove_ide",
+        "name": "Grassy Glide",
         "basePower": 55,
         "classification": "aggressive"
     },
@@ -1973,201 +1973,201 @@
         "basePower": 65,
         "classification": "aggressive"
     },
-    "hmove_iddenpower60": {
+    "hiddenpower60": {
         "move_id": 329,
-        "name": "Hmove_idden Power",
+        "name": "Hidden Power",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerbug60": {
+    "hiddenpowerbug60": {
         "move_id": 330,
-        "name": "Hmove_idden Power Bug",
+        "name": "Hidden Power Bug",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerbug70": {
+    "hiddenpowerbug70": {
         "move_id": 331,
-        "name": "Hmove_idden Power Bug",
+        "name": "Hidden Power Bug",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerdark60": {
+    "hiddenpowerdark60": {
         "move_id": 332,
-        "name": "Hmove_idden Power Dark",
+        "name": "Hidden Power Dark",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerdark70": {
+    "hiddenpowerdark70": {
         "move_id": 333,
-        "name": "Hmove_idden Power Dark",
+        "name": "Hidden Power Dark",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerdragon60": {
+    "hiddenpowerdragon60": {
         "move_id": 334,
-        "name": "Hmove_idden Power Dragon",
+        "name": "Hidden Power Dragon",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerdragon70": {
+    "hiddenpowerdragon70": {
         "move_id": 335,
-        "name": "Hmove_idden Power Dragon",
+        "name": "Hidden Power Dragon",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerelectric60": {
+    "hiddenpowerelectric60": {
         "move_id": 336,
-        "name": "Hmove_idden Power Electric",
+        "name": "Hidden Power Electric",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerelectric70": {
+    "hiddenpowerelectric70": {
         "move_id": 337,
-        "name": "Hmove_idden Power Electric",
+        "name": "Hidden Power Electric",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerfighting60": {
+    "hiddenpowerfighting60": {
         "move_id": 338,
-        "name": "Hmove_idden Power Fighting",
+        "name": "Hidden Power Fighting",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerfighting70": {
+    "hiddenpowerfighting70": {
         "move_id": 339,
-        "name": "Hmove_idden Power Fighting",
+        "name": "Hidden Power Fighting",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerfire60": {
+    "hiddenpowerfire60": {
         "move_id": 340,
-        "name": "Hmove_idden Power Fire",
+        "name": "Hidden Power Fire",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerfire70": {
+    "hiddenpowerfire70": {
         "move_id": 341,
-        "name": "Hmove_idden Power Fire",
+        "name": "Hidden Power Fire",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerflying60": {
+    "hiddenpowerflying60": {
         "move_id": 342,
-        "name": "Hmove_idden Power Flying",
+        "name": "Hidden Power Flying",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerflying70": {
+    "hiddenpowerflying70": {
         "move_id": 343,
-        "name": "Hmove_idden Power Flying",
+        "name": "Hidden Power Flying",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerghost60": {
+    "hiddenpowerghost60": {
         "move_id": 344,
-        "name": "Hmove_idden Power Ghost",
+        "name": "Hidden Power Ghost",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerghost70": {
+    "hiddenpowerghost70": {
         "move_id": 345,
-        "name": "Hmove_idden Power Ghost",
+        "name": "Hidden Power Ghost",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowergrass60": {
+    "hiddenpowergrass60": {
         "move_id": 346,
-        "name": "Hmove_idden Power Grass",
+        "name": "Hidden Power Grass",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowergrass70": {
+    "hiddenpowergrass70": {
         "move_id": 347,
-        "name": "Hmove_idden Power Grass",
+        "name": "Hidden Power Grass",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerground60": {
+    "hiddenpowerground60": {
         "move_id": 348,
-        "name": "Hmove_idden Power Ground",
+        "name": "Hidden Power Ground",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerground70": {
+    "hiddenpowerground70": {
         "move_id": 349,
-        "name": "Hmove_idden Power Ground",
+        "name": "Hidden Power Ground",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerice60": {
+    "hiddenpowerice60": {
         "move_id": 350,
-        "name": "Hmove_idden Power Ice",
+        "name": "Hidden Power Ice",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerice70": {
+    "hiddenpowerice70": {
         "move_id": 351,
-        "name": "Hmove_idden Power Ice",
+        "name": "Hidden Power Ice",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerpoison60": {
+    "hiddenpowerpoison60": {
         "move_id": 352,
-        "name": "Hmove_idden Power Poison",
+        "name": "Hidden Power Poison",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerpoison70": {
+    "hiddenpowerpoison70": {
         "move_id": 353,
-        "name": "Hmove_idden Power Poison",
+        "name": "Hidden Power Poison",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerpsychic60": {
+    "hiddenpowerpsychic60": {
         "move_id": 354,
-        "name": "Hmove_idden Power Psychic",
+        "name": "Hidden Power Psychic",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerpsychic70": {
+    "hiddenpowerpsychic70": {
         "move_id": 355,
-        "name": "Hmove_idden Power Psychic",
+        "name": "Hidden Power Psychic",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerrock60": {
+    "hiddenpowerrock60": {
         "move_id": 356,
-        "name": "Hmove_idden Power Rock",
+        "name": "Hidden Power Rock",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerrock70": {
+    "hiddenpowerrock70": {
         "move_id": 357,
-        "name": "Hmove_idden Power Rock",
+        "name": "Hidden Power Rock",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowersteel60": {
+    "hiddenpowersteel60": {
         "move_id": 358,
-        "name": "Hmove_idden Power Steel",
+        "name": "Hidden Power Steel",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowersteel70": {
+    "hiddenpowersteel70": {
         "move_id": 359,
-        "name": "Hmove_idden Power Steel",
+        "name": "Hidden Power Steel",
         "basePower": 70,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerwater60": {
+    "hiddenpowerwater60": {
         "move_id": 360,
-        "name": "Hmove_idden Power Water",
+        "name": "Hidden Power Water",
         "basePower": 60,
         "classification": "aggressive"
     },
-    "hmove_iddenpowerwater70": {
+    "hiddenpowerwater70": {
         "move_id": 361,
-        "name": "Hmove_idden Power Water",
+        "name": "Hidden Power Water",
         "basePower": 70,
         "classification": "aggressive"
     },
@@ -2591,9 +2591,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "liqumove_idation": {
+    "liquidation": {
         "move_id": 432,
-        "name": "Liqumove_idation",
+        "name": "Liquidation",
         "basePower": 85,
         "classification": "aggressive"
     },
@@ -3563,9 +3563,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "rapmove_idspin": {
+    "rapidspin": {
         "move_id": 594,
-        "name": "Rapmove_id Spin",
+        "name": "Rapid Spin",
         "basePower": 50,
         "classification": "aggressive"
     },
@@ -3713,9 +3713,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "rockslmove_ide": {
+    "rockslide": {
         "move_id": 619,
-        "name": "Rock Slmove_ide",
+        "name": "Rock Slide",
         "basePower": 75,
         "classification": "aggressive"
     },
@@ -3977,9 +3977,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "shellsmove_idearm": {
+    "shellsidearm": {
         "move_id": 663,
-        "name": "Shell Smove_ide Arm",
+        "name": "Shell Side Arm",
         "basePower": 90,
         "classification": "aggressive"
     },
@@ -4049,9 +4049,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "sizzlyslmove_ide": {
+    "sizzlyslide": {
         "move_id": 675,
-        "name": "Sizzly Slmove_ide",
+        "name": "Sizzly Slide",
         "basePower": 60,
         "classification": "aggressive"
     },
@@ -4283,9 +4283,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "spmove_iderweb": {
+    "spiderweb": {
         "move_id": 714,
-        "name": "Spmove_ider Web",
+        "name": "Spider Web",
         "basePower": 0,
         "classification": "passive"
     },
@@ -4361,9 +4361,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "springtmove_idestorm": {
+    "springtidestorm": {
         "move_id": 727,
-        "name": "Springtmove_ide Storm",
+        "name": "Springtide Storm",
         "basePower": 100,
         "classification": "aggressive"
     },
@@ -4805,9 +4805,9 @@
         "basePower": 0,
         "classification": "passive"
     },
-    "tmove_idyup": {
+    "tidyup": {
         "move_id": 801,
-        "name": "Tmove_idy Up",
+        "name": "Tidy Up",
         "basePower": 0,
         "classification": "passive"
     },
@@ -5099,9 +5099,9 @@
         "basePower": 80,
         "classification": "aggressive"
     },
-    "wmove_ideguard": {
+    "wideguard": {
         "move_id": 850,
-        "name": "Wmove_ide Guard",
+        "name": "Wide Guard",
         "basePower": 0,
         "classification": "passive"
     },
